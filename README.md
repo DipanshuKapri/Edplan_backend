@@ -124,6 +124,6 @@ scorecard_client.py
 utils.py
 requirements.txt
 Dockerfile
-.env.example
+.env
 README.md
 ```
