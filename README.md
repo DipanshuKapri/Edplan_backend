@@ -1,5 +1,5 @@
 
-# EdPlan College Guide – Python FastAPI Backend (College Scorecard)
+# EdPlan College Guide – Python FastAPI Backend
 
 A production‑ready FastAPI backend that powers your college guide frontend using the **U.S. Dept. of Education College Scorecard API**.
 
