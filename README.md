@@ -1,8 +1,6 @@
 
 # EdPlan College Guide – Python FastAPI Backend
 
-A production‑ready FastAPI backend that powers your college guide frontend using API**.
-
 ## ✨ What you get
 - Clean, async FastAPI service
 - Search, details, programs, and compare endpoints
