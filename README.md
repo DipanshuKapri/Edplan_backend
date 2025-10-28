@@ -1,7 +1,7 @@
 
 # EdPlan College Guide – Python FastAPI Backend
 
-A production‑ready FastAPI backend that powers your college guide frontend using the **U.S. Dept. of Education College Scorecard API**.
+A production‑ready FastAPI backend that powers your college guide frontend using API**.
 
 ## ✨ What you get
 - Clean, async FastAPI service
@@ -12,8 +12,6 @@ A production‑ready FastAPI backend that powers your college guide frontend usi
 - Simple in‑memory TTL cache for performance
 - Dockerfile + `requirements.txt`
 - Ready to deploy on any VM/container or run locally
-
-> Data source: College Scorecard API (requires an API key). Apply for a key and see docs. 
 
 ## 🚀 Quickstart
 
@@ -129,7 +127,3 @@ Dockerfile
 .env.example
 README.md
 ```
-
-## 📜 License
-
-MIT (yours). This scaffolding is provided as-is.
