@@ -1,0 +1,14 @@
+.venv/
+.venv_ci/
+__pycache__/
+*.py[cod]
+*.log
+.vscode/
+.DS_Store
+.env
+.env.*
+/dist/
+/build/
+/htmlcov/
+/coverage/
+*.egg-info/
